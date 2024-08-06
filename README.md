@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with advanced Python programming techniques
 - 💬 Ask me about software development, travel technology, and career development in IT
 - 📫 How to reach me: yanhaoqing98@gmail.com
-- ⚡ Fun fact: My favorite video games are Genshin Impact and PUBG.
 
 
 ## 🚀 Languages and Tools:
