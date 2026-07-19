@@ -41,15 +41,6 @@ I'm a software engineer focused on building reliable backend services, business 
 | [Algorithm](https://github.com/haoqing-yan/Algorithm) | Data structure and algorithm implementations, problem-solving notes, and practice plans. | Java, Algorithms |
 | [yzInfo](https://github.com/haoqing-yan/yzInfo) | A crawler for collecting postgraduate admission and examination-scope information. | Python, Web Crawling |
 
-## GitHub Stats
-
-<p>
-  <a href="https://github.com/haoqing-yan">
-    <img height="170" alt="Haoqing's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=haoqing-yan&show_icons=true&hide_border=true&theme=transparent" />
-    <img height="170" alt="Haoqing's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoqing-yan&layout=compact&hide_border=true&theme=transparent" />
-  </a>
-</p>
-
 ---
 
 Thanks for visiting. Feel free to explore my repositories or get in touch.
