@@ -2,7 +2,7 @@
 
 I'm a software engineer focused on building reliable backend services, business platforms, and practical developer tools.
 
-- 💼 Working at **Guangxi Tourism Development Group**
+- 💼 Currently open to new software engineering opportunities
 - 🔧 Building with **Java, Spring Boot, Spring Cloud, Vue, and Python**
 - 🌏 Interested in enterprise software, tourism technology, automation, and AI-enabled applications
 - 🧠 Improving system design, distributed systems, and data engineering skills
